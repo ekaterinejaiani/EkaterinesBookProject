@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "rate": 4.2,
+    "status": "read",
+    "created_at": "2025-08-01T22:42:27.672535"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "rate": 4.8,
+    "status": "reading in progress",
+    "created_at": "2025-08-01T22:42:27.672556"
+  },
+  {
+    "id": 3,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "rate": 4.5,
+    "status": "read",
+    "created_at": "2025-08-01T22:42:27.672557"
+  }
+]
